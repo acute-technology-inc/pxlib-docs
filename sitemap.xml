@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/changelog/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/changelog/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/changelog/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/changelog/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/getting-started/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/getting-started/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/getting-started/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/getting-started/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/basic-tutorials/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/basic-tutorials/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/basic-tutorials/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/basic-tutorials/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/basic-tutorials/bus-device-creation/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/basic-tutorials/bus-device-creation/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/basic-tutorials/bus-device-creation/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/basic-tutorials/bus-device-creation/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/basic-tutorials/event-registration/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/basic-tutorials/event-registration/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/basic-tutorials/event-registration/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/basic-tutorials/event-registration/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/basic-tutorials/gpio-trigger/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/basic-tutorials/gpio-trigger/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/basic-tutorials/gpio-trigger/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/basic-tutorials/gpio-trigger/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/basic-tutorials/gpio/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/basic-tutorials/gpio/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/basic-tutorials/gpio/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/basic-tutorials/gpio/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/basic-tutorials/set-a-specific-ip/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/basic-tutorials/set-a-specific-ip/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/basic-tutorials/set-a-specific-ip/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/basic-tutorials/set-a-specific-ip/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/protocols/gpio/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/gpio/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/gpio/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/gpio/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/protocols/i2c/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i2c/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i2c/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i2c/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/protocols/i2c/i2c-32bit-register-target/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i2c/i2c-32bit-register-target/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i2c/i2c-32bit-register-target/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i2c/i2c-32bit-register-target/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/protocols/i2c/i2c-4kb-memory-target/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i2c/i2c-4kb-memory-target/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i2c/i2c-4kb-memory-target/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i2c/i2c-4kb-memory-target/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/protocols/i2c/i2c-8bit-address-memory-target/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i2c/i2c-8bit-address-memory-target/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i2c/i2c-8bit-address-memory-target/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i2c/i2c-8bit-address-memory-target/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/protocols/i2c/i2c-controller/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i2c/i2c-controller/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i2c/i2c-controller/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i2c/i2c-controller/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/protocols/i2c/i2c-fifo-target/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i2c/i2c-fifo-target/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i2c/i2c-fifo-target/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i2c/i2c-fifo-target/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/i3c-32bit-register-target/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/i3c-32bit-register-target/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/i3c-32bit-register-target/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/i3c-32bit-register-target/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/i3c-8bit-address-memory-target/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/i3c-8bit-address-memory-target/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/i3c-8bit-address-memory-target/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/i3c-8bit-address-memory-target/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/i3c-base-controller/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/i3c-base-controller/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/i3c-base-controller/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/i3c-base-controller/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/i3c-fifo-target/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/i3c-fifo-target/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/i3c-fifo-target/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/i3c-fifo-target/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/FAQ/directly-get-pid-bcr-dcr/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/FAQ/directly-get-pid-bcr-dcr/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/FAQ/directly-get-pid-bcr-dcr/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/FAQ/directly-get-pid-bcr-dcr/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/FAQ/getting-assigned-addresses/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/FAQ/getting-assigned-addresses/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/FAQ/getting-assigned-addresses/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/FAQ/getting-assigned-addresses/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/FAQ/set-get-ibi/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/FAQ/set-get-ibi/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/FAQ/set-get-ibi/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/FAQ/set-get-ibi/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/protocols/pwm/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/pwm/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/pwm/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/pwm/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/protocols/pwm/pwm-tx/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/pwm/pwm-tx/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/pwm/pwm-tx/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/pwm/pwm-tx/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/protocols/uart/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/uart/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/uart/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/uart/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/protocols/uart/uart-rx/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/uart/uart-rx/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/uart/uart-rx/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/uart/uart-rx/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/protocols/uart/uart-tx/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/uart/uart-tx/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/uart/uart-tx/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/uart/uart-tx/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/changelog/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/changelog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/changelog/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/changelog/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/getting-started/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/getting-started/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/getting-started/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/getting-started/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/basic-tutorials/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/basic-tutorials/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/basic-tutorials/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/basic-tutorials/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/basic-tutorials/bus-device-creation/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/basic-tutorials/bus-device-creation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/basic-tutorials/bus-device-creation/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/basic-tutorials/bus-device-creation/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/basic-tutorials/event-registration/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/basic-tutorials/event-registration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/basic-tutorials/event-registration/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/basic-tutorials/event-registration/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/basic-tutorials/gpio-trigger/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/basic-tutorials/gpio-trigger/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/basic-tutorials/gpio-trigger/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/basic-tutorials/gpio-trigger/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/basic-tutorials/gpio/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/basic-tutorials/gpio/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/basic-tutorials/gpio/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/basic-tutorials/gpio/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/basic-tutorials/set-a-specific-ip/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/basic-tutorials/set-a-specific-ip/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/basic-tutorials/set-a-specific-ip/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/basic-tutorials/set-a-specific-ip/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/gpio/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/gpio/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/gpio/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/gpio/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i2c/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i2c/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i2c/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i2c/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i2c/i2c-32bit-register-target/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i2c/i2c-32bit-register-target/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i2c/i2c-32bit-register-target/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i2c/i2c-32bit-register-target/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i2c/i2c-4kb-memory-target/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i2c/i2c-4kb-memory-target/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i2c/i2c-4kb-memory-target/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i2c/i2c-4kb-memory-target/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i2c/i2c-8bit-address-memory-target/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i2c/i2c-8bit-address-memory-target/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i2c/i2c-8bit-address-memory-target/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i2c/i2c-8bit-address-memory-target/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i2c/i2c-controller/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i2c/i2c-controller/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i2c/i2c-controller/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i2c/i2c-controller/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i2c/i2c-fifo-target/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i2c/i2c-fifo-target/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i2c/i2c-fifo-target/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i2c/i2c-fifo-target/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/i3c-32bit-register-target/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/i3c-32bit-register-target/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/i3c-32bit-register-target/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/i3c-32bit-register-target/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/i3c-8bit-address-memory-target/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/i3c-8bit-address-memory-target/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/i3c-8bit-address-memory-target/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/i3c-8bit-address-memory-target/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/i3c-base-controller/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/i3c-base-controller/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/i3c-base-controller/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/i3c-base-controller/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/i3c-fifo-target/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/i3c-fifo-target/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/i3c-fifo-target/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/i3c-fifo-target/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/FAQ/directly-get-pid-bcr-dcr/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/FAQ/directly-get-pid-bcr-dcr/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/FAQ/directly-get-pid-bcr-dcr/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/FAQ/directly-get-pid-bcr-dcr/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/FAQ/getting-assigned-addresses/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/FAQ/getting-assigned-addresses/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/FAQ/getting-assigned-addresses/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/FAQ/getting-assigned-addresses/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/FAQ/set-get-ibi/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/FAQ/set-get-ibi/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/FAQ/set-get-ibi/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/FAQ/set-get-ibi/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/pwm/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/pwm/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/pwm/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/pwm/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/pwm/pwm-tx/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/pwm/pwm-tx/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/pwm/pwm-tx/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/pwm/pwm-tx/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/uart/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/uart/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/uart/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/uart/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/uart/uart-rx/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/uart/uart-rx/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/uart/uart-rx/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/uart/uart-rx/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/uart/uart-tx/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/uart/uart-tx/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/uart/uart-tx/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/uart/uart-tx/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/changelog/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/changelog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/changelog/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/changelog/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/getting-started/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/getting-started/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/getting-started/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/getting-started/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/basic-tutorials/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/basic-tutorials/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/basic-tutorials/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/basic-tutorials/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/basic-tutorials/bus-device-creation/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/basic-tutorials/bus-device-creation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/basic-tutorials/bus-device-creation/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/basic-tutorials/bus-device-creation/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/basic-tutorials/event-registration/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/basic-tutorials/event-registration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/basic-tutorials/event-registration/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/basic-tutorials/event-registration/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/basic-tutorials/gpio-trigger/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/basic-tutorials/gpio-trigger/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/basic-tutorials/gpio-trigger/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/basic-tutorials/gpio-trigger/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/basic-tutorials/gpio/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/basic-tutorials/gpio/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/basic-tutorials/gpio/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/basic-tutorials/gpio/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/basic-tutorials/set-a-specific-ip/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/basic-tutorials/set-a-specific-ip/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/basic-tutorials/set-a-specific-ip/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/basic-tutorials/set-a-specific-ip/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/gpio/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/gpio/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/gpio/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/gpio/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i2c/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i2c/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i2c/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i2c/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i2c/i2c-32bit-register-target/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i2c/i2c-32bit-register-target/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i2c/i2c-32bit-register-target/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i2c/i2c-32bit-register-target/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i2c/i2c-4kb-memory-target/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i2c/i2c-4kb-memory-target/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i2c/i2c-4kb-memory-target/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i2c/i2c-4kb-memory-target/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i2c/i2c-8bit-address-memory-target/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i2c/i2c-8bit-address-memory-target/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i2c/i2c-8bit-address-memory-target/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i2c/i2c-8bit-address-memory-target/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i2c/i2c-controller/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i2c/i2c-controller/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i2c/i2c-controller/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i2c/i2c-controller/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i2c/i2c-fifo-target/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i2c/i2c-fifo-target/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i2c/i2c-fifo-target/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i2c/i2c-fifo-target/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/i3c-32bit-register-target/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/i3c-32bit-register-target/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/i3c-32bit-register-target/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/i3c-32bit-register-target/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/i3c-8bit-address-memory-target/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/i3c-8bit-address-memory-target/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/i3c-8bit-address-memory-target/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/i3c-8bit-address-memory-target/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/i3c-base-controller/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/i3c-base-controller/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/i3c-base-controller/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/i3c-base-controller/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/i3c-fifo-target/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/i3c-fifo-target/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/i3c-fifo-target/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/i3c-fifo-target/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/FAQ/directly-get-pid-bcr-dcr/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/FAQ/directly-get-pid-bcr-dcr/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/FAQ/directly-get-pid-bcr-dcr/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/FAQ/directly-get-pid-bcr-dcr/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/FAQ/getting-assigned-addresses/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/FAQ/getting-assigned-addresses/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/FAQ/getting-assigned-addresses/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/FAQ/getting-assigned-addresses/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/FAQ/set-get-ibi/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/i3c/FAQ/set-get-ibi/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/i3c/FAQ/set-get-ibi/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/i3c/FAQ/set-get-ibi/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/pwm/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/pwm/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/pwm/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/pwm/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/pwm/pwm-tx/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/pwm/pwm-tx/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/pwm/pwm-tx/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/pwm/pwm-tx/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/uart/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/uart/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/uart/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/uart/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/uart/uart-rx/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/uart/uart-rx/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/uart/uart-rx/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/uart/uart-rx/"/>
+    </url>
+    <url>
+        <loc>https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/uart/uart-tx/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://acute-technology-inc.github.io/pxlib-docs/zh/protocols/uart/uart-tx/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://acute-technology-inc.github.io/pxlib-docs/protocols/uart/uart-tx/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://acute-technology-inc.github.io/pxlib-docs/zh-TW/protocols/uart/uart-tx/"/>
+    </url>
+</urlset>
